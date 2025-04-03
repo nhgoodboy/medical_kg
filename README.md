@@ -156,10 +156,10 @@ python src/main.py visualize --export-d3
 ![医学知识图谱静态图像](docs/images/medical_kg_pil.png)
 
 ### 交互式可视化（PyVis）
-![医学知识图谱交互式可视化](docs/images/medical_kg_pyvis.png)
+![医学知识图谱交互式可视化](docs/images/medical_interactive.html)
 
 ### 实体子图（以"糖尿病"为中心）
-![糖尿病相关实体子图](docs/images/entity_diabetes_pil.png)
+![糖尿病相关实体子图](docs/images/entity_糖尿病_pil.png)
 
 ## 许可证
 
