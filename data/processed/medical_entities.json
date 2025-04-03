@@ -1,0 +1,162 @@
+{
+  "疾病_0": {
+    "id": "疾病_0",
+    "name": "糖尿病",
+    "type": "疾病",
+    "source_doc": "diabetes.txt",
+    "description": "一种由于胰岛素分泌缺陷或其生物作用受损引起的代谢性疾病",
+    "attributes": {}
+  },
+  "疾病_1": {
+    "id": "疾病_1",
+    "name": "1型糖尿病",
+    "type": "疾病",
+    "source_doc": "diabetes.txt",
+    "description": "由于胰岛β细胞被破坏导致胰岛素绝对缺乏",
+    "attributes": {}
+  },
+  "疾病_2": {
+    "id": "疾病_2",
+    "name": "2型糖尿病",
+    "type": "疾病",
+    "source_doc": "diabetes.txt",
+    "description": "由胰岛素抵抗和胰岛素分泌不足引起",
+    "attributes": {}
+  },
+  "疾病_3": {
+    "id": "疾病_3",
+    "name": "妊娠糖尿病",
+    "type": "疾病",
+    "source_doc": "diabetes.txt",
+    "description": "妊娠期间出现的任何程度的糖耐量异常",
+    "attributes": {}
+  },
+  "症状_4": {
+    "id": "症状_4",
+    "name": "多饮",
+    "type": "症状",
+    "source_doc": "diabetes.txt",
+    "description": "糖尿病的典型症状之一",
+    "attributes": {}
+  },
+  "症状_5": {
+    "id": "症状_5",
+    "name": "多食",
+    "type": "症状",
+    "source_doc": "diabetes.txt",
+    "description": "糖尿病的典型症状之一",
+    "attributes": {}
+  },
+  "症状_6": {
+    "id": "症状_6",
+    "name": "多尿",
+    "type": "症状",
+    "source_doc": "diabetes.txt",
+    "description": "糖尿病的典型症状之一",
+    "attributes": {}
+  },
+  "症状_7": {
+    "id": "症状_7",
+    "name": "体重减轻",
+    "type": "症状",
+    "source_doc": "diabetes.txt",
+    "description": "糖尿病的典型症状之一",
+    "attributes": {}
+  },
+  "药物_8": {
+    "id": "药物_8",
+    "name": "胰岛素",
+    "type": "药物",
+    "source_doc": "diabetes.txt",
+    "description": "用于控制血糖的激素类药物",
+    "attributes": {}
+  },
+  "药物_9": {
+    "id": "药物_9",
+    "name": "二甲双胍",
+    "type": "药物",
+    "source_doc": "diabetes.txt",
+    "description": "常用的口服降糖药",
+    "attributes": {}
+  },
+  "并发症_10": {
+    "id": "并发症_10",
+    "name": "糖尿病视网膜病变",
+    "type": "并发症",
+    "source_doc": "diabetes.txt",
+    "description": "可导致视力下降甚至失明",
+    "attributes": {}
+  },
+  "并发症_11": {
+    "id": "并发症_11",
+    "name": "糖尿病肾病",
+    "type": "并发症",
+    "source_doc": "diabetes.txt",
+    "description": "可导致肾功能衰竭",
+    "attributes": {}
+  },
+  "并发症_12": {
+    "id": "并发症_12",
+    "name": "糖尿病神经病变",
+    "type": "并发症",
+    "source_doc": "diabetes.txt",
+    "description": "引起四肢麻木、疼痛等感觉异常",
+    "attributes": {}
+  },
+  "并发症_13": {
+    "id": "并发症_13",
+    "name": "糖尿病足",
+    "type": "并发症",
+    "source_doc": "diabetes.txt",
+    "description": "严重可导致截肢",
+    "attributes": {}
+  },
+  "解剖部位_14": {
+    "id": "解剖部位_14",
+    "name": "胰岛β细胞",
+    "type": "解剖部位",
+    "source_doc": "diabetes.txt",
+    "description": "位于胰腺内，分泌胰岛素的细胞",
+    "attributes": {}
+  },
+  "检查项目_15": {
+    "id": "检查项目_15",
+    "name": "血糖检测",
+    "type": "检查项目",
+    "source_doc": "diabetes.txt",
+    "description": "用于监测血糖水平的检查",
+    "attributes": {}
+  },
+  "检查项目_16": {
+    "id": "检查项目_16",
+    "name": "糖化血红蛋白检测",
+    "type": "检查项目",
+    "source_doc": "diabetes.txt",
+    "description": "反映近2-3个月血糖控制情况的指标",
+    "attributes": {}
+  },
+  "治疗方法_17": {
+    "id": "治疗方法_17",
+    "name": "饮食控制",
+    "type": "治疗方法",
+    "source_doc": "diabetes.txt",
+    "description": "糖尿病治疗的基础措施",
+    "attributes": {}
+  },
+  "治疗方法_18": {
+    "id": "治疗方法_18",
+    "name": "运动治疗",
+    "type": "治疗方法",
+    "source_doc": "diabetes.txt",
+    "description": "有助于提高胰岛素敏感性",
+    "attributes": {}
+  },
+  "病因_19": {
+    "id": "病因_19",
+    "name": "胰岛素抵抗",
+    "type": "病因",
+    "source_doc": "diabetes.txt",
+    "description": "2型糖尿病的主要病理生理机制之一",
+    "attributes": {}
+  }
+}
